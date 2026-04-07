@@ -30,9 +30,9 @@
 
 |Clear                          |Cloudy                           |Rainy                          |Storm                          |
 |-------------------------------|---------------------------------|-------------------------------|-------------------------------|
-<img width="720" height="1280" alt="sun" src="https://github.com/user-attachments/assets/9b7ceca9-d3e1-49f5-9267-458ff67aa959" /><img width="720" height="1280" alt="cloud" src="https://github.com/user-attachments/assets/f1a8fd0f-60a6-4609-a00f-21fc937ed31b" />
-<img width="720" height="1280" alt="rain" src="https://github.com/user-attachments/assets/22659022-153f-4207-a138-189c267f95ee" />
-<img width="720" height="1280" alt="thunder" src="https://github.com/user-attachments/assets/a8d6cc5a-c3f5-4e4e-9c5f-d46716c058d7" />
+<img width="720" height="1280" alt="sun" src="https://github.com/user-attachments/assets/9b7ceca9-d3e1-49f5-9267-458ff67aa959" />|<img width="720" height="1280" alt="cloud" src="https://github.com/user-attachments/assets/f1a8fd0f-60a6-4609-a00f-21fc937ed31b" />|
+<img width="720" height="1280" alt="rain" src="https://github.com/user-attachments/assets/22659022-153f-4207-a138-189c267f95ee" />|
+<img width="720" height="1280" alt="thunder" src="https://github.com/user-attachments/assets/a8d6cc5a-c3f5-4e4e-9c5f-d46716c058d7" />|
 
 
 -----
